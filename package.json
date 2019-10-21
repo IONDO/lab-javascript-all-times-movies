@@ -1,0 +1,16 @@
+{
+  "name": "lab-javascript-all-times-movies-master",
+  "version": "1.0.0",
+  "description": "![Ironhack Logo](https://i.imgur.com/1QgrNNw.png)",
+  "main": "index.js",
+  "dependencies": {
+    "jasmine-node": "^3.0.0",
+    "jasmine": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node ./node_modules/jasmine-node/bin/jasmine-node"
+  },
+  "author": "",
+  "license": "ISC"
+}
